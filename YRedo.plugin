@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=YRedo
+IAge=3
+Name=YRedo
+Description=Add CTRL+Y for 'redo' action (like Shit+Ctrl+Z)
+Authors=Guillaume Delhumeau <guillaume@guillaumedelhumeau.com>
+Copyright=Copyright © 2012 Guillaume Delhumeau <guillaume@guillaumedelhumeau.com>
+Website=https://github.com/gdelhumeau/gedit-yredo
